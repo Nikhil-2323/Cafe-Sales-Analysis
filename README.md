@@ -34,8 +34,9 @@ This project analyzes transactional sales data from a café to extract valuable 
 ### 📁 **Files**
 - **Cafe Sales Analysis.ipynb** - The main Jupyter Notebook with analysis and visualizations.
 - **dirty_cafe_sales.csv** - Raw dataset used for the project.
-- **Insights.docx** - Summary of key business insights (optional).
-- **README.md** - Project overview and usage guide.
+- **Insight Template.md** - Summary of key business insights.
+- **TIPS TO INCREASE THE SALE.md**-Some tips which are helpful to increase the sale.
+- **Description.md** - Project overview and usage guide.
 
 ---
 
